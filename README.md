@@ -1,2 +1,7 @@
-# Manual-EDOPro
-A manual for the popular independant Yu-Gi-Oh! dueling simulator.
+# Yu-Gi-Oh! EDOPro! (AP Manual)
+[under construction]
+
+## What Are You Searching For?
+
+
+## Play Guide
